@@ -1,0 +1,254 @@
+.our-stellar-team-of {
+    position: absolute;
+    top: 2558px;
+    left: 206px;
+    font-size: var(--font-size-35xl);
+    font-weight: 600;
+    color: var(--color-black);
+    display: inline-block;
+    width: 821px;
+    height: 81px;
+  }
+  .img-5860-icon {
+    position: absolute;
+    top: 2731px;
+    left: 206px;
+    width: 388px;
+    height: 517px;
+    object-fit: cover;
+  }
+  .img-5870-icon,
+  .img-6013-icon {
+    position: absolute;
+    top: 2727px;
+    object-fit: cover;
+  }
+  .img-5870-icon {
+    left: 620px;
+    width: 388px;
+    height: 517px;
+  }
+  .img-6013-icon {
+    right: 210px;
+    width: 684px;
+    height: 513px;
+  }
+  .about-us-child,
+  .about-us-item {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    background-color: #5f2727;
+    width: 1921px;
+    height: 437px;
+  }
+  .about-us-item {
+    background-color: #953c0c;
+    height: 76px;
+  }
+  .all-content,
+  .quick-links {
+    position: absolute;
+    bottom: 25px;
+    left: 770px;
+    font-weight: 500;
+    display: inline-block;
+    width: 383px;
+    height: 19px;
+  }
+  .quick-links {
+    bottom: 313px;
+    left: 362px;
+    width: 226px;
+    height: 20px;
+  }
+  .policies {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .blank-line {
+    margin: 0;
+  }
+  .policies-container {
+    position: absolute;
+    bottom: 313px;
+    left: 732px;
+    font-weight: 500;
+    display: inline-block;
+    width: 226px;
+    height: 20px;
+  }
+  .terms-conditions {
+    margin: 0;
+    font-weight: 500;
+  }
+  .terms-conditions-container {
+    position: absolute;
+    bottom: 271px;
+    left: 732px;
+    font-size: var(--font-size-3xs);
+    display: inline-block;
+    width: 226px;
+    height: 24px;
+  }
+  .about-us2 {
+    font-weight: 500;
+  }
+  .about-us1,
+  .contact,
+  .privacy {
+    position: absolute;
+    bottom: 271px;
+    left: 362px;
+    font-size: var(--font-size-3xs);
+    display: inline-block;
+    width: 226px;
+    height: 24px;
+  }
+  .contact,
+  .privacy {
+    bottom: 241px;
+  }
+  .contact {
+    bottom: 211px;
+  }
+  .company-atpo-kuhibahal-dist {
+    position: absolute;
+    bottom: 71px;
+    left: 1101px;
+    display: inline-block;
+    width: 458px;
+    height: 262px;
+  }
+  .img-5776-icon {
+    position: absolute;
+    top: 1921px;
+    right: 210px;
+    border-radius: 50px;
+    width: 509px;
+    height: 637px;
+    object-fit: cover;
+  }
+  .founder-me,
+  .our-team,
+  .premium-heritage-pottery-container {
+    position: absolute;
+    left: 206px;
+    color: var(--color-black);
+    display: inline-block;
+  }
+  .our-team {
+    top: 1885px;
+    font-size: var(--font-size-35xl);
+    font-weight: 600;
+    width: 319px;
+    height: 72px;
+  }
+  .founder-me,
+  .premium-heritage-pottery-container {
+    top: 2021px;
+    font-size: var(--font-size-9xl);
+    width: 947px;
+    height: 334px;
+  }
+  .premium-heritage-pottery-container {
+    top: 1318px;
+    width: 1505px;
+    height: 506px;
+  }
+  .blank-line5 {
+    margin: 0;
+    font-size: 30px;
+    font-family: var(--font-montserrat);
+  }
+  .about-us3 {
+    position: absolute;
+    top: 1200px;
+    left: 206px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 281px;
+    height: 57px;
+    font-size: var(--font-size-35xl);
+    font-family: var(--font-arial);
+  }
+  .mask-group-17 {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 1921px;
+    height: 954px;
+    object-fit: cover;
+  }
+  .aefc4552afb5ea0fc170d6a90b85d5-icon {
+    position: absolute;
+    top: 32px;
+    right: 207px;
+    width: 53px;
+    height: 53px;
+    object-fit: cover;
+  }
+  .eb58e3650808de92e4833622df8c76-icon {
+    position: absolute;
+    top: 29px;
+    right: 296px;
+    width: 59px;
+    height: 59px;
+    object-fit: cover;
+  }
+  .contact2,
+  .home {
+    position: absolute;
+    top: 50px;
+    left: 1395px;
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    color: var(--color-gray);
+    display: inline-block;
+    width: 128px;
+  }
+  .home {
+    left: 1257px;
+    width: 105px;
+  }
+  .untitled-1-01-icon {
+    position: absolute;
+    top: 5px;
+    left: 158px;
+    width: 408px;
+    height: 105px;
+    object-fit: cover;
+  }
+  .about-us {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 3883px;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-lightgoldenrodyellow);
+    font-family: var(--font-montserrat);
+  }
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-montserrat: Montserrat;
+    --font-arial: Arial;
+  
+    /* font sizes */
+    --font-size-xl: 18px;
+    --font-size-35xl: 48px;
+    --font-size-9xl: 24px;
+    --font-size-xs: 12px;
+    --font-size-3xs: 10px;
+  
+    /* Colors */
+    --color-gray: #432020;
+    --color-black: #000;
+    --color-lightgoldenrodyellow: #dee6b9;
+  }
+  

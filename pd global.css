@@ -1,0 +1,429 @@
+.product-details-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+    width: 1920px;
+    height: 124px;
+  }
+  .untitled-1-01-icon {
+    position: absolute;
+    top: 5px;
+    left: 158px;
+    width: 408px;
+    height: 105px;
+    object-fit: cover;
+  }
+  .contact,
+  .home {
+    position: absolute;
+    top: 40px;
+    left: 1263px;
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    display: inline-block;
+    width: 105px;
+  }
+  .contact {
+    left: 1401px;
+    width: 128px;
+  }
+  .eb58e3650808de92e4833622df8c76-icon {
+    position: absolute;
+    top: 29px;
+    right: 296px;
+    width: 59px;
+    height: 59px;
+    object-fit: cover;
+  }
+  .aefc4552afb5ea0fc170d6a90b85d5-icon {
+    position: absolute;
+    top: 32px;
+    right: 207px;
+    width: 53px;
+    height: 53px;
+    object-fit: cover;
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-31xl);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac {
+    position: absolute;
+    top: 222px;
+    left: 146px;
+    width: 960px;
+    height: 1211px;
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac-icon1 {
+    position: absolute;
+    height: calc(100% - 10px);
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 10px;
+    left: 0;
+    border-radius: var(--br-31xl);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac1,
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac2 {
+    position: absolute;
+    top: 1497px;
+    left: 146px;
+    width: 264px;
+    height: 342px;
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac2 {
+    top: 1492px;
+    left: 496px;
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac3 {
+    position: absolute;
+    top: 1497px;
+    left: 845px;
+    width: 264px;
+    height: 332px;
+  }
+  .d-lotus-diyatealight {
+    position: absolute;
+    top: 330px;
+    right: 139px;
+    font-size: 64px;
+    line-height: 54px;
+    font-weight: 800;
+    color: var(--color-black);
+    text-align: center;
+    display: inline-block;
+    width: 595px;
+  }
+  .add-to-cart,
+  .div {
+    position: absolute;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .div {
+    top: 538px;
+    left: 1232px;
+    color: var(--color-black);
+    width: 278px;
+  }
+  .add-to-cart {
+    width: calc(100% - 120px);
+    top: calc(50% - 16.5px);
+    left: 61px;
+  }
+  .add-to-cart-wrapper,
+  .buy-it-now-wrapper {
+    position: absolute;
+    top: 818px;
+    left: 1232px;
+    border-radius: var(--br-24xl);
+    background-color: var(--color-lightcoral);
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+    width: 398px;
+    height: 85px;
+    text-align: center;
+  }
+  .buy-it-now-wrapper {
+    top: 935px;
+  }
+  .quantity {
+    position: absolute;
+    top: 630px;
+    left: 1232px;
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--color-black);
+    display: inline-block;
+    width: 278px;
+  }
+  .path-1-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .div1 {
+    position: absolute;
+    width: calc(100% - 45.2px);
+    top: calc(50% - 15.46px);
+    left: 23px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    display: inline-block;
+  }
+  .path-1-parent {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .product-details-inner {
+    position: absolute;
+    top: 702.96px;
+    left: 1232px;
+    width: 172.2px;
+    height: 67px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .this-gorgeous-terracotta {
+    margin: 0;
+  }
+  .this-gorgeous-terracotta-container {
+    position: absolute;
+    top: 1096px;
+    right: 205px;
+    font-weight: 500;
+    color: var(--color-black);
+    display: inline-block;
+    width: 483px;
+  }
+  .product-details-item,
+  .rectangle-div {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    background-color: #5f2727;
+    width: 1921px;
+    height: 437px;
+  }
+  .rectangle-div {
+    background-color: #953c0c;
+    height: 76px;
+  }
+  .all-content,
+  .quick-links {
+    position: absolute;
+    bottom: 28px;
+    left: 770px;
+    font-size: var(--font-size-xs);
+    font-weight: 500;
+    color: var(--color-lightgoldenrodyellow);
+    display: inline-block;
+    width: 383px;
+    height: 19px;
+  }
+  .quick-links {
+    bottom: 316px;
+    left: 362px;
+    width: 226px;
+    height: 20px;
+  }
+  .policies {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .policies-container {
+    position: absolute;
+    bottom: 316px;
+    left: 732px;
+    font-size: var(--font-size-xs);
+    font-weight: 500;
+    color: var(--color-lightgoldenrodyellow);
+    display: inline-block;
+    width: 226px;
+    height: 20px;
+  }
+  .terms-conditions {
+    margin: 0;
+    font-weight: 500;
+  }
+  .terms-conditions-container {
+    position: absolute;
+    bottom: 274px;
+    left: 732px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-lightgoldenrodyellow);
+    display: inline-block;
+    width: 226px;
+    height: 24px;
+  }
+  .about-us1 {
+    font-weight: 500;
+  }
+  .about-us,
+  .company-atpo-kuhibahal-dist,
+  .contact1,
+  .privacy {
+    position: absolute;
+    bottom: 274px;
+    left: 362px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-lightgoldenrodyellow);
+    display: inline-block;
+    width: 226px;
+    height: 24px;
+  }
+  .company-atpo-kuhibahal-dist,
+  .contact1,
+  .privacy {
+    bottom: 244px;
+  }
+  .company-atpo-kuhibahal-dist,
+  .contact1 {
+    bottom: 214px;
+  }
+  .company-atpo-kuhibahal-dist {
+    bottom: 74px;
+    left: 1101px;
+    font-size: var(--font-size-xs);
+    width: 458px;
+    height: 262px;
+  }
+  .home-decor,
+  .jwellery,
+  .utensils {
+    position: absolute;
+    bottom: 540px;
+    left: 219px;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+    width: 232px;
+  }
+  .home-decor,
+  .jwellery {
+    left: 953px;
+  }
+  .home-decor {
+    left: 526px;
+    width: 360px;
+  }
+  .ed2df1e1128aa9fa5fa51484c83cfd-icon,
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac4 {
+    position: absolute;
+    top: 2179px;
+    left: 219px;
+    width: 249px;
+    height: 314px;
+  }
+  .ed2df1e1128aa9fa5fa51484c83cfd-icon {
+    left: 582px;
+    border-radius: var(--br-31xl);
+    width: 251px;
+    object-fit: cover;
+  }
+  .mask-group-10,
+  .mask-group-9 {
+    position: absolute;
+    top: 2179px;
+    left: 948px;
+    width: 253px;
+    height: 316px;
+    object-fit: cover;
+  }
+  .mask-group-10 {
+    left: 1314px;
+    width: 252px;
+  }
+  .other-products,
+  .painted-pottery {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+  }
+  .painted-pottery {
+    right: 259px;
+    bottom: 540px;
+    font-weight: 600;
+    width: 440px;
+  }
+  .other-products {
+    top: 2020px;
+    left: 688px;
+    font-size: 44px;
+    width: 545px;
+  }
+  .product-details {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 3137px;
+    text-align: left;
+    font-size: var(--font-size-9xl);
+    color: var(--color-gray);
+    font-family: var(--font-montserrat);
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #minus, #plus {
+    background-color: #ddd;
+  }
+  
+  #number {
+    width: 50px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+    
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-segoe-ui: "Segoe UI";
+    --font-montserrat: Montserrat;
+  
+    /* font sizes */
+    --font-size-35xl: 54px;
+    --font-size-xs: 12px;
+    --font-size-3xs: 10px;
+    --font-size-9xl: 28px;
+    --font-size-11xl: 30px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-lightgoldenrodyellow: #dee6b9;
+    --color-saddlebrown: #953c0c;
+    --color-sienna: #5f2727;
+    --color-dimgray: #707070;
+    --color-gray: #432020;
+    --color-lightcoral: #f67878;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+    --br-24xl: 43px;
+  }
+  

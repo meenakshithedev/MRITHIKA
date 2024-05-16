@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  .popup-overlay {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    inset: 0;
+  }
+  
+  :root {
+    /* fonts */
+    --font-montserrat: Montserrat;
+    --font-futura-md-bt: "Futura Md BT";
+  
+    /* font sizes */
+    --font-size-xs: 12px;
+    --font-size-3xs: 10px;
+    --font-size-xl: 20px;
+    --font-size-base: 16px;
+    --font-size-9xl: 28px;
+    --font-size-25xl: 44px;
+    --font-size-sm: 14px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-lightgoldenrodyellow: #dee6b9;
+    --color-dimgray-100: #707070;
+    --color-black: #000;
+    --color-gray: #432020;
+  
+    /* Border radiuses */
+    --br-40xl: 59px;
+    --br-48xl: 67px;
+    --br-31xl: 50px;
+  }
+  

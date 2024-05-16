@@ -1,0 +1,229 @@
+.untitled-1-01-icon {
+    position: absolute;
+    height: calc(100% - 19px);
+    top: 5px;
+    bottom: 14px;
+    left: 158px;
+    max-height: 100%;
+    width: 408px;
+    object-fit: cover;
+  }
+  .contact,
+  .home {
+    position: absolute;
+    top: calc(50% - 22px);
+    left: calc(50% + 303px);
+    font-weight: 600;
+    display: inline-block;
+    width: 105px;
+  }
+  .contact {
+    left: calc(50% + 441px);
+    width: 128px;
+  }
+  .eb58e3650808de92e4833622df8c76-icon {
+    position: absolute;
+    top: calc(50% - 33px);
+    right: 296px;
+    width: 59px;
+    height: 59px;
+    object-fit: cover;
+  }
+  .aefc4552afb5ea0fc170d6a90b85d5-icon {
+    position: absolute;
+    top: calc(50% - 30px);
+    right: 207px;
+    width: 53px;
+    height: 53px;
+    object-fit: cover;
+  }
+  .untitled-1-01-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+    width: 1920px;
+    height: 124px;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray);
+  }
+  .about-us1 {
+    margin: 0;
+    font-size: var(--font-size-35xl);
+  }
+  .about-us1,
+  .blank-line1 {
+    white-space: pre-wrap;
+  }
+  .blank-line {
+    margin: 0;
+    font-size: var(--font-size-11xl);
+  }
+  .premium-heritage-pottery {
+    font-weight: 600;
+  }
+  .premium-heritage-pottery-of-in {
+    margin: 0;
+  }
+  .mrithika-is-a-designed {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .about-us-premium-heritage-container {
+    position: absolute;
+    top: 1164px;
+    left: 206px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 945px;
+    height: 917px;
+    font-size: var(--font-size-9xl);
+    font-family: var(--font-segoe-ui);
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-31xl);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .f7aa2ba70bd6ab5ea1a6c8a2c8a7ac {
+    position: absolute;
+    top: 1401px;
+    right: 208px;
+    width: 468px;
+    height: 590px;
+  }
+  .our-team {
+    margin: 0;
+    font-size: var(--font-size-35xl);
+    font-weight: 600;
+  }
+  .our-team-founder-container {
+    position: absolute;
+    top: 2131px;
+    left: 206px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 1510px;
+    height: 347px;
+    font-size: var(--font-size-9xl);
+    font-family: var(--font-segoe-ui);
+  }
+  .about-us-child,
+  .about-us-item {
+    position: absolute;
+    bottom: 1px;
+    left: 0;
+    background-color: var(--color-sienna);
+    width: 1921px;
+    height: 437px;
+  }
+  .about-us-item {
+    background-color: var(--color-saddlebrown);
+    height: 76px;
+  }
+  .all-content,
+  .policies-container,
+  .quick-links {
+    position: absolute;
+    bottom: 31px;
+    left: 770px;
+    font-weight: 500;
+    display: inline-block;
+    width: 383px;
+    height: 19px;
+  }
+  .policies-container,
+  .quick-links {
+    bottom: 319px;
+    left: 362px;
+    width: 226px;
+    height: 20px;
+  }
+  .policies-container {
+    left: 732px;
+  }
+  .terms-conditions {
+    margin: 0;
+    font-weight: 500;
+  }
+  .terms-conditions-container {
+    position: absolute;
+    bottom: 277px;
+    left: 732px;
+    font-size: var(--font-size-3xs);
+    display: inline-block;
+    width: 226px;
+    height: 24px;
+  }
+  .about-us3 {
+    font-weight: 500;
+  }
+  .about-us2,
+  .contact1,
+  .privacy {
+    position: absolute;
+    bottom: 277px;
+    left: 362px;
+    font-size: var(--font-size-3xs);
+    display: inline-block;
+    width: 226px;
+    height: 24px;
+  }
+  .contact1,
+  .privacy {
+    bottom: 247px;
+  }
+  .contact1 {
+    bottom: 217px;
+  }
+  .company-atpo-kuhibahal-dist {
+    position: absolute;
+    bottom: 77px;
+    left: 1101px;
+    display: inline-block;
+    width: 458px;
+    height: 262px;
+  }
+  .our-stellar-team-of {
+    position: absolute;
+    top: 2516px;
+    left: 635px;
+    font-size: var(--font-size-35xl);
+    font-weight: 600;
+    font-family: var(--font-segoe-ui);
+    color: var(--color-black);
+    text-align: center;
+    display: inline-block;
+    width: 651px;
+    height: 81px;
+  }
+  .mask-group-8 {
+    position: absolute;
+    top: 141px;
+    left: 0;
+    width: 1921px;
+    height: 954px;
+    object-fit: cover;
+  }
+  .about-us {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 3175px;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-lightgoldenrodyellow);
+    font-family: var(--font-montserrat);
+  }
+  

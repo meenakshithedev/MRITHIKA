@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-segoe-ui: "Segoe UI";
+    --font-montserrat: Montserrat;
+  
+    /* font sizes */
+    --font-size-35xl: 54px;
+    --font-size-xs: 12px;
+    --font-size-3xs: 10px;
+    --font-size-9xl: 28px;
+    --font-size-11xl: 30px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-lightgoldenrodyellow: #dee6b9;
+    --color-saddlebrown: #953c0c;
+    --color-sienna: #5f2727;
+    --color-dimgray: #707070;
+    --color-gray: #432020;
+    --color-lightcoral: #f67878;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+    --br-24xl: 43px;
+  }
+  
